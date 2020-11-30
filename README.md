@@ -1,3 +1,3 @@
-# Default starter template
+# Starter vuex
 
-[MEVN-CLI](https://github.com/madlabsinc/mevn-cli)
+Live (https://hedico45.github.io/random-coctail/)
